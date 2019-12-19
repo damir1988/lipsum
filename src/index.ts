@@ -1,4 +1,4 @@
-class Lorem{
+class Lipsumjs{
 
     words: string [];
     wordsNoPerSentence: [number, number];
