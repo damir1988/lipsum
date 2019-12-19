@@ -1,22 +1,22 @@
 {
-  "name": "lipsum",
+  "name": "lipsumjs",
   "version": "1.0.0",
   "description": "Lorem ipsum generator.",
-  "main": "dist/index.js",
+  "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "tsc -w"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/damir1988/lipsum.git"
+    "url": "git+https://github.com/damir1988/lipsumjs.git"
   },
   "author": "Damir Kustura",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/damir1988/lipsum/issues"
+    "url": "https://github.com/damir1988/lipsumjs/issues"
   },
-  "homepage": "https://github.com/damir1988/lipsum#readme",
+  "homepage": "https://github.com/damir1988/lipsumjs#readme",
   "devDependencies": {
     "typescript": "^3.7.3"
   }
